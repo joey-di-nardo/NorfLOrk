@@ -1,4 +1,4 @@
-norflork
+NorfLOrk
 ========
 
 Norfolk Laptop Orchestra
